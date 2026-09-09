@@ -1,0 +1,46 @@
+[
+  {
+    "chunk_id": "chk_dafe1b6d4cae",
+    "url": "https://docs.python.org/3",
+    "title": "Python 3.12 Documentation - Built-in Types and Asynchronous I/O",
+    "section_heading": "Python 3.12: Concurrency and Asyncio Framework",
+    "context_header": "Source Document: Python 3.12 Documentation - Built-in Types and Asynchronous I/O > Section: Python 3.12: Concurrency and Asyncio Framework",
+    "chunk_index": 0,
+    "token_count": 86,
+    "text": "Source Document: Python 3.12 Documentation - Built-in Types and Asynchronous I/O > Section: Python 3.12: Concurrency and Asyncio Framework\n\nPython 3.12 introduces major performance improvements to asyncio event loops, sub-interpreters, and low-overhead monitoring. Asyncio provides the foundation for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources.",
+    "raw_text": "Python 3.12 introduces major performance improvements to asyncio event loops, sub-interpreters, and low-overhead monitoring. Asyncio provides the foundation for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources."
+  },
+  {
+    "chunk_id": "chk_37c61b5f3dd5",
+    "url": "https://docs.python.org/3",
+    "title": "Python 3.12 Documentation - Built-in Types and Asynchronous I/O",
+    "section_heading": "Task Management and TaskGroup",
+    "context_header": "Source Document: Python 3.12 Documentation - Built-in Types and Asynchronous I/O > Section: Task Management and TaskGroup",
+    "chunk_index": 1,
+    "token_count": 67,
+    "text": "Source Document: Python 3.12 Documentation - Built-in Types and Asynchronous I/O > Section: Task Management and TaskGroup\n\nThe asyncio.TaskGroup context manager provides a reliable way to run a group of concurrent tasks. If any task fails with an exception, remaining tasks in the group are automatically canceled, preventing leaked background coroutines.",
+    "raw_text": "The asyncio.TaskGroup context manager provides a reliable way to run a group of concurrent tasks. If any task fails with an exception, remaining tasks in the group are automatically canceled, preventing leaked background coroutines."
+  },
+  {
+    "chunk_id": "chk_c5ca41d6a345",
+    "url": "https://docs.python.org/3",
+    "title": "Python 3.12 Documentation - Built-in Types and Asynchronous I/O",
+    "section_heading": "Coroutines and Event Loops",
+    "context_header": "Source Document: Python 3.12 Documentation - Built-in Types and Asynchronous I/O > Section: Coroutines and Event Loops",
+    "chunk_index": 2,
+    "token_count": 61,
+    "text": "Source Document: Python 3.12 Documentation - Built-in Types and Asynchronous I/O > Section: Coroutines and Event Loops\n\nCoroutines declared with async def syntax are executed by scheduling them on an event loop or awaiting them inside another coroutine. The event loop is the core of every asyncio application.",
+    "raw_text": "Coroutines declared with async def syntax are executed by scheduling them on an event loop or awaiting them inside another coroutine. The event loop is the core of every asyncio application."
+  },
+  {
+    "chunk_id": "chk_85afb10dbb20",
+    "url": "https://docs.python.org/3",
+    "title": "Python 3.12 Documentation - Built-in Types and Asynchronous I/O",
+    "section_heading": "Performance Enhancements",
+    "context_header": "Source Document: Python 3.12 Documentation - Built-in Types and Asynchronous I/O > Section: Performance Enhancements",
+    "chunk_index": 3,
+    "token_count": 53,
+    "text": "Source Document: Python 3.12 Documentation - Built-in Types and Asynchronous I/O > Section: Performance Enhancements\n\nPython 3.12 features optimized function calls, specialized adaptive bytecode (PEP 659), and reduced memory consumption for dictionaries and object instances.",
+    "raw_text": "Python 3.12 features optimized function calls, specialized adaptive bytecode (PEP 659), and reduced memory consumption for dictionaries and object instances."
+  }
+]

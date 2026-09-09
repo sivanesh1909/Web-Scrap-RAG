@@ -1,0 +1,62 @@
+# Secrets and Environment variables
+.env
+.env*.local
+.env.development
+.env.test
+.env.production
+*.pem
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+.pnp/
+.pnp.*
+
+# Next.js and frontend build
+.next/
+frontend/.next/
+out/
+frontend/out/
+build/
+frontend/build/
+*.tsbuildinfo
+frontend/*.tsbuildinfo
+next-env.d.ts
+frontend/next-env.d.ts
+
+# Python
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+dist/
+develop-eggs/
+
+# Testing & Caches
+.pytest_cache/
+.coverage
+htmlcov/
+.eslintcache
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

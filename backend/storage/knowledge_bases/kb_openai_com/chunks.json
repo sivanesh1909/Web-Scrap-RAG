@@ -1,0 +1,46 @@
+[
+  {
+    "chunk_id": "chk_627799691dcc",
+    "url": "https://openai.com",
+    "title": "OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence",
+    "section_heading": "OpenAI: Advancing Safe Artificial General Intelligence",
+    "context_header": "Source Document: OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence > Section: OpenAI: Advancing Safe Artificial General Intelligence",
+    "chunk_index": 0,
+    "token_count": 82,
+    "text": "Source Document: OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence > Section: OpenAI: Advancing Safe Artificial General Intelligence\n\nOpenAI conducts frontier AI research and develops leading foundational models. Flagship offerings include ChatGPT, GPT-4o, GPT-4o mini, DALL-E 3 image generation, and the OpenAI API for developers worldwide.",
+    "raw_text": "OpenAI conducts frontier AI research and develops leading foundational models. Flagship offerings include ChatGPT, GPT-4o, GPT-4o mini, DALL-E 3 image generation, and the OpenAI API for developers worldwide."
+  },
+  {
+    "chunk_id": "chk_18758739d5ed",
+    "url": "https://openai.com",
+    "title": "OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence",
+    "section_heading": "GPT-4o Multimodal Intelligence",
+    "context_header": "Source Document: OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence > Section: GPT-4o Multimodal Intelligence",
+    "chunk_index": 1,
+    "token_count": 77,
+    "text": "Source Document: OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence > Section: GPT-4o Multimodal Intelligence\n\nGPT-4o ('omni') natively accepts text, audio, and image inputs and generates text, audio, and visual outputs with real-time responsiveness and human-like conversational fluency across diverse languages and domains.",
+    "raw_text": "GPT-4o ('omni') natively accepts text, audio, and image inputs and generates text, audio, and visual outputs with real-time responsiveness and human-like conversational fluency across diverse languages and domains."
+  },
+  {
+    "chunk_id": "chk_e6c2afd13cb6",
+    "url": "https://openai.com",
+    "title": "OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence",
+    "section_heading": "ChatGPT Enterprise and Team Capabilities",
+    "context_header": "Source Document: OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence > Section: ChatGPT Enterprise and Team Capabilities",
+    "chunk_index": 2,
+    "token_count": 61,
+    "text": "Source Document: OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence > Section: ChatGPT Enterprise and Team Capabilities\n\nChatGPT Enterprise delivers enterprise-grade security, data privacy, administrative console controls, and dedicated high-speed access to advanced reasoning and custom GPT models.",
+    "raw_text": "ChatGPT Enterprise delivers enterprise-grade security, data privacy, administrative console controls, and dedicated high-speed access to advanced reasoning and custom GPT models."
+  },
+  {
+    "chunk_id": "chk_e79fc85abf2f",
+    "url": "https://openai.com",
+    "title": "OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence",
+    "section_heading": "Developer API and Fine-Tuning",
+    "context_header": "Source Document: OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence > Section: Developer API and Fine-Tuning",
+    "chunk_index": 3,
+    "token_count": 60,
+    "text": "Source Document: OpenAI - Research, GPT-4o, ChatGPT and Artificial Intelligence > Section: Developer API and Fine-Tuning\n\nThe OpenAI API allows developers to integrate text completion, chat, embeddings, structured outputs, and vision capabilities into applications with fine-tuning and retrieval assistance.",
+    "raw_text": "The OpenAI API allows developers to integrate text completion, chat, embeddings, structured outputs, and vision capabilities into applications with fine-tuning and retrieval assistance."
+  }
+]

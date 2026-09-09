@@ -1,0 +1,227 @@
+{
+  "kb_id": "kb_www_sih_gov_in",
+  "url": "https://www.sih.gov.in/sih2026PS",
+  "domain": "www.sih.gov.in",
+  "title": "Smart India Hackathon",
+  "description": "",
+  "total_pages": 15,
+  "total_chunks": 2036,
+  "total_words": 384186,
+  "created_at": "2026-09-09T14:20:31.919186",
+  "last_crawled_at": "2026-09-09T14:20:31.919186",
+  "pages": [
+    {
+      "url": "https://www.sih.gov.in/sih2026PS",
+      "title": "Smart India Hackathon",
+      "word_count": 296192,
+      "headings_count": 12,
+      "depth": 0
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2018Hardware",
+      "title": "Smart India Hackathon",
+      "word_count": 1409,
+      "headings_count": 93,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in",
+      "title": "Smart India Hackathon",
+      "word_count": 2377,
+      "headings_count": 69,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/know-your-spoc",
+      "title": "Smart India Hackathon",
+      "word_count": 71818,
+      "headings_count": 7,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2025",
+      "title": "Smart India Hackathon",
+      "word_count": 967,
+      "headings_count": 63,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/faqs",
+      "title": "Smart India Hackathon",
+      "word_count": 1234,
+      "headings_count": 25,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/signin",
+      "title": "Smart India Hackathon",
+      "word_count": 285,
+      "headings_count": 7,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2022s",
+      "title": "Smart India Hackathon",
+      "word_count": 1048,
+      "headings_count": 67,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2020Software",
+      "title": "Smart India Hackathon",
+      "word_count": 1731,
+      "headings_count": 98,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2024",
+      "title": "Smart India Hackathon",
+      "word_count": 943,
+      "headings_count": 63,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2019",
+      "title": "Smart India Hackathon",
+      "word_count": 1725,
+      "headings_count": 97,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2019Hard",
+      "title": "Smart India Hackathon",
+      "word_count": 1537,
+      "headings_count": 88,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2023s",
+      "title": "Smart India Hackathon",
+      "word_count": 1099,
+      "headings_count": 70,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2018Software",
+      "title": "Smart India Hackathon",
+      "word_count": 1406,
+      "headings_count": 80,
+      "depth": 1
+    },
+    {
+      "url": "https://www.sih.gov.in/implementationTeam",
+      "title": "Smart India Hackathon",
+      "word_count": 415,
+      "headings_count": 18,
+      "depth": 1
+    }
+  ],
+  "crawl_tree": [
+    {
+      "url": "https://www.sih.gov.in/sih2026PS",
+      "title": "Smart India Hackathon",
+      "parent": null,
+      "depth": 0,
+      "word_count": 296192
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2018Hardware",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 1409
+    },
+    {
+      "url": "https://www.sih.gov.in",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 2377
+    },
+    {
+      "url": "https://www.sih.gov.in/know-your-spoc",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 71818
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2025",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 967
+    },
+    {
+      "url": "https://www.sih.gov.in/faqs",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 1234
+    },
+    {
+      "url": "https://www.sih.gov.in/signin",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 285
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2022s",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 1048
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2020Software",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 1731
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2024",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 943
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2019",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 1725
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2019Hard",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 1537
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2023s",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 1099
+    },
+    {
+      "url": "https://www.sih.gov.in/sih2018Software",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 1406
+    },
+    {
+      "url": "https://www.sih.gov.in/implementationTeam",
+      "title": "Smart India Hackathon",
+      "parent": "https://www.sih.gov.in/sih2026PS",
+      "depth": 1,
+      "word_count": 415
+    }
+  ],
+  "vector_dimension": 1024
+}

@@ -1,0 +1,59 @@
+{
+  "kb_id": "kb_www_infomeister_co_in",
+  "url": "https://www.infomeister.co.in/",
+  "domain": "www.infomeister.co.in",
+  "title": "INFOMEISTER 2.0",
+  "description": "Premium technology community platform for INFOMEISTER, the Computer Science & Engineering Association of INFO Institute of Engineering.",
+  "total_pages": 3,
+  "total_chunks": 95,
+  "total_words": 2321,
+  "created_at": "2026-09-08T22:51:48.001373",
+  "last_crawled_at": "2026-09-08T22:51:48.001373",
+  "pages": [
+    {
+      "url": "https://www.infomeister.co.in",
+      "title": "INFOMEISTER 2.0",
+      "word_count": 1153,
+      "headings_count": 133,
+      "depth": 0
+    },
+    {
+      "url": "https://trisquadathon.infomeister.co.in",
+      "title": "INFOMEISTER Hackathon 2025 | INFO Institute of Engineering",
+      "word_count": 277,
+      "headings_count": 17,
+      "depth": 1
+    },
+    {
+      "url": "https://trisquadathon.infomeister.co.in/problem-statements.html",
+      "title": "Problem Statements | INFOMEISTER Hackathon 2025",
+      "word_count": 891,
+      "headings_count": 36,
+      "depth": 2
+    }
+  ],
+  "crawl_tree": [
+    {
+      "url": "https://www.infomeister.co.in",
+      "title": "INFOMEISTER 2.0",
+      "parent": null,
+      "depth": 0,
+      "word_count": 1153
+    },
+    {
+      "url": "https://trisquadathon.infomeister.co.in",
+      "title": "INFOMEISTER Hackathon 2025 | INFO Institute of Engineering",
+      "parent": "https://www.infomeister.co.in",
+      "depth": 1,
+      "word_count": 277
+    },
+    {
+      "url": "https://trisquadathon.infomeister.co.in/problem-statements.html",
+      "title": "Problem Statements | INFOMEISTER Hackathon 2025",
+      "parent": "https://trisquadathon.infomeister.co.in",
+      "depth": 2,
+      "word_count": 891
+    }
+  ],
+  "vector_dimension": 3072
+}

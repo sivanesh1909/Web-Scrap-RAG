@@ -1,0 +1,31 @@
+{
+  "kb_id": "kb_sivanesh1909_github_io",
+  "url": "https://sivanesh1909.github.io/Sivanesh---portfolio/",
+  "domain": "sivanesh1909.github.io",
+  "title": "Sivanesh R - AI & Machine Learning Engineer",
+  "description": "Artificial Intelligence and Machine Learning Engineer specializing in Python, machine learning, data analysis and intelligent digital solutions.",
+  "total_pages": 1,
+  "total_chunks": 13,
+  "total_words": 1092,
+  "created_at": "2026-09-08T22:40:01.647700",
+  "last_crawled_at": "2026-09-08T22:40:01.647700",
+  "pages": [
+    {
+      "url": "https://sivanesh1909.github.io/Sivanesh---portfolio/",
+      "title": "Sivanesh R - AI & Machine Learning Engineer",
+      "word_count": 1092,
+      "headings_count": 14,
+      "depth": 0
+    }
+  ],
+  "crawl_tree": [
+    {
+      "url": "https://sivanesh1909.github.io/Sivanesh---portfolio/",
+      "title": "Sivanesh R - AI & Machine Learning Engineer",
+      "parent": null,
+      "depth": 0,
+      "word_count": 1092
+    }
+  ],
+  "vector_dimension": 3072
+}

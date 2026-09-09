@@ -1,0 +1,17 @@
+{
+  "kb_id": "test_verified_kb",
+  "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+  "domain": "en.wikipedia.org",
+  "title": "Artificial intelligence - Wikipedia",
+  "total_pages": 1,
+  "total_chunks": 81,
+  "total_words": 14978,
+  "pages": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "title": "Artificial intelligence - Wikipedia",
+      "word_count": 14978
+    }
+  ],
+  "vector_dimension": 1024
+}

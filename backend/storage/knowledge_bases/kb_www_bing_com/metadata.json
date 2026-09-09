@@ -1,0 +1,59 @@
+{
+  "kb_id": "kb_www_bing_com",
+  "url": "https://www.bing.com/search?q=flipkart&form=ANNTH1&refig=3939c4459f9c4dbc9d9db66b82da2990&pc=U531&pq=flip&pqlth=4&assgl=8&sgcn=flipkart&qs=MB&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-4&sp=1&ghc=0&cvid=3939c4459f9c4dbc9d9db66b82da2990&clckatsg=1&hsmssg=0",
+  "domain": "www.bing.com",
+  "title": "flipkart - Bing",
+  "description": "Intelligent search from Bing makes it easier to quickly find what you're looking for and rewards you.",
+  "total_pages": 3,
+  "total_chunks": 2,
+  "total_words": 350,
+  "created_at": "2026-09-07T10:40:34.311680",
+  "last_crawled_at": "2026-09-07T10:40:34.311680",
+  "pages": [
+    {
+      "url": "https://www.bing.com/search?q=flipkart&form=ANNTH1&pc=U531&pq=flip&pqlth=4&assgl=8&sgcn=flipkart&qs=MB&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-4&sp=1&ghc=0&cvid=3939c4459f9c4dbc9d9db66b82da2990&clckatsg=1&hsmssg=0",
+      "title": "flipkart - Bing",
+      "word_count": 346,
+      "headings_count": 10,
+      "depth": 0
+    },
+    {
+      "url": "https://www.bing.com/",
+      "title": "Where\u202fhistory\u202fflows\u202falong the\u202fcanal",
+      "word_count": 2,
+      "headings_count": 0,
+      "depth": 1
+    },
+    {
+      "url": "https://www.bing.com/",
+      "title": "Where\u202fhistory\u202fflows\u202falong the\u202fcanal",
+      "word_count": 2,
+      "headings_count": 0,
+      "depth": 1
+    }
+  ],
+  "crawl_tree": [
+    {
+      "url": "https://www.bing.com/search?q=flipkart&form=ANNTH1&pc=U531&pq=flip&pqlth=4&assgl=8&sgcn=flipkart&qs=MB&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-4&sp=1&ghc=0&cvid=3939c4459f9c4dbc9d9db66b82da2990&clckatsg=1&hsmssg=0",
+      "title": "flipkart - Bing",
+      "parent": null,
+      "depth": 0,
+      "word_count": 346
+    },
+    {
+      "url": "https://www.bing.com/",
+      "title": "Where\u202fhistory\u202fflows\u202falong the\u202fcanal",
+      "parent": "https://www.bing.com/search?q=flipkart&form=ANNTH1&pc=U531&pq=flip&pqlth=4&assgl=8&sgcn=flipkart&qs=MB&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-4&sp=1&ghc=0&cvid=3939c4459f9c4dbc9d9db66b82da2990&clckatsg=1&hsmssg=0",
+      "depth": 1,
+      "word_count": 2
+    },
+    {
+      "url": "https://www.bing.com/",
+      "title": "Where\u202fhistory\u202fflows\u202falong the\u202fcanal",
+      "parent": "https://www.bing.com/search?q=flipkart&form=ANNTH1&pc=U531&pq=flip&pqlth=4&assgl=8&sgcn=flipkart&qs=MB&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-4&sp=1&ghc=0&cvid=3939c4459f9c4dbc9d9db66b82da2990&clckatsg=1&hsmssg=0",
+      "depth": 1,
+      "word_count": 2
+    }
+  ],
+  "vector_dimension": 1024
+}

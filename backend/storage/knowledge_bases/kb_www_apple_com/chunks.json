@@ -1,0 +1,46 @@
+[
+  {
+    "chunk_id": "chk_0de25bf5f707",
+    "url": "https://www.apple.com",
+    "title": "Apple - Hardware, Software, Services and Innovation",
+    "section_heading": "Apple Inc: Flagship Products and Services",
+    "context_header": "Source Document: Apple - Hardware, Software, Services and Innovation > Section: Apple Inc: Flagship Products and Services",
+    "chunk_index": 0,
+    "token_count": 86,
+    "text": "Source Document: Apple - Hardware, Software, Services and Innovation > Section: Apple Inc: Flagship Products and Services\n\nApple designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories, and sells a variety of related services. Flagship hardware lines include the iPhone, Mac personal computers (MacBook Pro, MacBook Air, iMac, Mac Studio), iPad tablets, and the Apple Watch wearable series.",
+    "raw_text": "Apple designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories, and sells a variety of related services. Flagship hardware lines include the iPhone, Mac personal computers (MacBook Pro, MacBook Air, iMac, Mac Studio), iPad tablets, and the Apple Watch wearable series."
+  },
+  {
+    "chunk_id": "chk_5f6f72ec07f3",
+    "url": "https://www.apple.com",
+    "title": "Apple - Hardware, Software, Services and Innovation",
+    "section_heading": "iPhone Product Family",
+    "context_header": "Source Document: Apple - Hardware, Software, Services and Innovation > Section: iPhone Product Family",
+    "chunk_index": 1,
+    "token_count": 67,
+    "text": "Source Document: Apple - Hardware, Software, Services and Innovation > Section: iPhone Product Family\n\nThe iPhone product family represents Apple's premier smartphone lineup, featuring cutting-edge Apple Silicon A-series processors, Super Retina XDR OLED displays, Ceramic Shield protection, and advanced multi-lens camera systems with optical image stabilization and ProRes video recording.",
+    "raw_text": "The iPhone product family represents Apple's premier smartphone lineup, featuring cutting-edge Apple Silicon A-series processors, Super Retina XDR OLED displays, Ceramic Shield protection, and advanced multi-lens camera systems with optical image stabilization and ProRes video recording."
+  },
+  {
+    "chunk_id": "chk_d1cb4dcfb8a0",
+    "url": "https://www.apple.com",
+    "title": "Apple - Hardware, Software, Services and Innovation",
+    "section_heading": "Mac Computers and Apple Silicon",
+    "context_header": "Source Document: Apple - Hardware, Software, Services and Innovation > Section: Mac Computers and Apple Silicon",
+    "chunk_index": 2,
+    "token_count": 66,
+    "text": "Source Document: Apple - Hardware, Software, Services and Innovation > Section: Mac Computers and Apple Silicon\n\nApple Silicon (M-series processors including M3, M4, and M4 Pro) powers the Mac ecosystem, delivering industry-leading performance-per-watt, unified memory architecture, and extended battery life across MacBook Air and MacBook Pro.",
+    "raw_text": "Apple Silicon (M-series processors including M3, M4, and M4 Pro) powers the Mac ecosystem, delivering industry-leading performance-per-watt, unified memory architecture, and extended battery life across MacBook Air and MacBook Pro."
+  },
+  {
+    "chunk_id": "chk_4a2113d894c7",
+    "url": "https://www.apple.com",
+    "title": "Apple - Hardware, Software, Services and Innovation",
+    "section_heading": "Apple Services and Subscription Platforms",
+    "context_header": "Source Document: Apple - Hardware, Software, Services and Innovation > Section: Apple Services and Subscription Platforms",
+    "chunk_index": 3,
+    "token_count": 58,
+    "text": "Source Document: Apple - Hardware, Software, Services and Innovation > Section: Apple Services and Subscription Platforms\n\nApple's services portfolio encompasses the App Store, Apple Music, Apple TV+, Apple Pay, iCloud+, and Apple Care, providing seamless cloud storage, entertainment, and digital payments across Apple devices.",
+    "raw_text": "Apple's services portfolio encompasses the App Store, Apple Music, Apple TV+, Apple Pay, iCloud+, and Apple Care, providing seamless cloud storage, entertainment, and digital payments across Apple devices."
+  }
+]

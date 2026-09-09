@@ -1,0 +1,46 @@
+[
+  {
+    "chunk_id": "chk_b4580c30d803",
+    "url": "https://webmind.ai/docs",
+    "title": "WebMind AI - Neural Knowledge Engine",
+    "section_heading": "Overview",
+    "context_header": "Source Document: WebMind AI - Neural Knowledge Engine > Section: Overview",
+    "chunk_index": 0,
+    "token_count": 23,
+    "text": "Source Document: WebMind AI - Neural Knowledge Engine > Section: Overview\n\nState of the art website RAG platform.",
+    "raw_text": "State of the art website RAG platform."
+  },
+  {
+    "chunk_id": "chk_4b3b70fd3015",
+    "url": "https://webmind.ai/docs",
+    "title": "WebMind AI - Neural Knowledge Engine",
+    "section_heading": "Welcome to WebMind AI",
+    "context_header": "Source Document: WebMind AI - Neural Knowledge Engine > Section: Welcome to WebMind AI",
+    "chunk_index": 1,
+    "token_count": 31,
+    "text": "Source Document: WebMind AI - Neural Knowledge Engine > Section: Welcome to WebMind AI\n\nWebMind transforms any public website into an interactive AI knowledge assistant.",
+    "raw_text": "WebMind transforms any public website into an interactive AI knowledge assistant."
+  },
+  {
+    "chunk_id": "chk_082d7b814d52",
+    "url": "https://webmind.ai/docs",
+    "title": "WebMind AI - Neural Knowledge Engine",
+    "section_heading": "Core Capabilities",
+    "context_header": "Source Document: WebMind AI - Neural Knowledge Engine > Section: Core Capabilities",
+    "chunk_index": 2,
+    "token_count": 58,
+    "text": "Source Document: WebMind AI - Neural Knowledge Engine > Section: Core Capabilities\n\nIt crawls websites recursively, cleans HTML content, and generates dense vector embeddings.\n\n| Feature | Speed |\n| --- | --- |\n| Crawling | Asynchronous |\n| RAG Retrieval | Sub-second |",
+    "raw_text": "It crawls websites recursively, cleans HTML content, and generates dense vector embeddings.\n\n| Feature | Speed |\n| --- | --- |\n| Crawling | Asynchronous |\n| RAG Retrieval | Sub-second |"
+  },
+  {
+    "chunk_id": "chk_225b3aa06175",
+    "url": "https://webmind.ai/docs",
+    "title": "WebMind AI - Neural Knowledge Engine",
+    "section_heading": "Installation Guide",
+    "context_header": "Source Document: WebMind AI - Neural Knowledge Engine > Section: Installation Guide",
+    "chunk_index": 3,
+    "token_count": 38,
+    "text": "Source Document: WebMind AI - Neural Knowledge Engine > Section: Installation Guide\n\nRun pip install -r requirements.txt to get started.\n\n```\nuvicorn backend.main:app --reload\n```",
+    "raw_text": "Run pip install -r requirements.txt to get started.\n\n```\nuvicorn backend.main:app --reload\n```"
+  }
+]

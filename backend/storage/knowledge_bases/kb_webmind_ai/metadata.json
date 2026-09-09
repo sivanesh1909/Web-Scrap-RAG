@@ -1,0 +1,30 @@
+{
+  "kb_id": "kb_webmind_ai",
+  "url": "https://webmind.ai",
+  "domain": "webmind.ai",
+  "title": "WebMind AI - Neural Knowledge Engine",
+  "description": "Transform any public website into an intelligent AI assistant using deep scraping, hybrid vector databases, and grounded RAG.",
+  "total_pages": 1,
+  "total_chunks": 5,
+  "total_words": 198,
+  "created_at": "2026-09-06T18:09:46.964337",
+  "last_crawled_at": "2026-09-06T18:09:46.964337",
+  "pages": [
+    {
+      "url": "https://webmind.ai",
+      "title": "WebMind AI - Neural Web Scraping & RAG Intelligence Engine",
+      "word_count": 198,
+      "depth": 0
+    }
+  ],
+  "crawl_tree": [
+    {
+      "url": "https://webmind.ai",
+      "title": "WebMind AI - Neural Web Scraping & RAG Intelligence Engine",
+      "parent": null,
+      "depth": 0,
+      "word_count": 198
+    }
+  ],
+  "vector_dimension": 384
+}

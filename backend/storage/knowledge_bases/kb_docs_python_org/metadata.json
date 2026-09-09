@@ -1,0 +1,30 @@
+{
+  "kb_id": "kb_docs_python_org",
+  "url": "https://docs.python.org/3",
+  "domain": "docs.python.org",
+  "title": "Python 3.12 Documentation",
+  "description": "Comprehensive documentation on Python 3.12 concurrency, asyncio, and data structures.",
+  "total_pages": 1,
+  "total_chunks": 4,
+  "total_words": 134,
+  "created_at": "2026-09-06T18:09:46.996991",
+  "last_crawled_at": "2026-09-06T18:09:46.996991",
+  "pages": [
+    {
+      "url": "https://docs.python.org/3",
+      "title": "Python 3.12 Documentation - Built-in Types and Asynchronous I/O",
+      "word_count": 134,
+      "depth": 0
+    }
+  ],
+  "crawl_tree": [
+    {
+      "url": "https://docs.python.org/3",
+      "title": "Python 3.12 Documentation - Built-in Types and Asynchronous I/O",
+      "parent": null,
+      "depth": 0,
+      "word_count": 134
+    }
+  ],
+  "vector_dimension": 384
+}

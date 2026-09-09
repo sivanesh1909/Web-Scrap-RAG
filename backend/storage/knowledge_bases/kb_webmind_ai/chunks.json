@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_id": "chk_f8cfc696a390",
+    "url": "https://webmind.ai",
+    "title": "WebMind AI - Neural Web Scraping & RAG Intelligence Engine",
+    "section_heading": "WebMind AI: The Future of Autonomous Website Knowledge",
+    "context_header": "Source Document: WebMind AI - Neural Web Scraping & RAG Intelligence Engine > Section: WebMind AI: The Future of Autonomous Website Knowledge",
+    "chunk_index": 0,
+    "token_count": 89,
+    "text": "Source Document: WebMind AI - Neural Web Scraping & RAG Intelligence Engine > Section: WebMind AI: The Future of Autonomous Website Knowledge\n\nWebMind AI empowers enterprises, researchers, and developers to transform any public website into an intelligent, high-precision AI knowledge assistant. By combining asynchronous multi-page crawling, semantic DOM extraction, dense vector embeddings, and hybrid BM25 search, WebMind delivers sub-second answers grounded strictly in source documentation.",
+    "raw_text": "WebMind AI empowers enterprises, researchers, and developers to transform any public website into an intelligent, high-precision AI knowledge assistant. By combining asynchronous multi-page crawling, semantic DOM extraction, dense vector embeddings, and hybrid BM25 search, WebMind delivers sub-second answers grounded strictly in source documentation."
+  },
+  {
+    "chunk_id": "chk_a3e05c88a9fc",
+    "url": "https://webmind.ai",
+    "title": "WebMind AI - Neural Web Scraping & RAG Intelligence Engine",
+    "section_heading": "Autonomous Crawling Architecture",
+    "context_header": "Source Document: WebMind AI - Neural Web Scraping & RAG Intelligence Engine > Section: Autonomous Crawling Architecture",
+    "chunk_index": 1,
+    "token_count": 68,
+    "text": "Source Document: WebMind AI - Neural Web Scraping & RAG Intelligence Engine > Section: Autonomous Crawling Architecture\n\nThe WebMind scraping engine traverses internal links recursively using an asynchronous queue. It respects robots.txt directives, normalizes canonical URLs, bypasses navigational clutter, and extracts clean markdown hierarchy without cookies, banners, or ads.",
+    "raw_text": "The WebMind scraping engine traverses internal links recursively using an asynchronous queue. It respects robots.txt directives, normalizes canonical URLs, bypasses navigational clutter, and extracts clean markdown hierarchy without cookies, banners, or ads."
+  },
+  {
+    "chunk_id": "chk_c4dc54f93bb1",
+    "url": "https://webmind.ai",
+    "title": "WebMind AI - Neural Web Scraping & RAG Intelligence Engine",
+    "section_heading": "Hybrid Vector Retrieval and Grounded RAG",
+    "context_header": "Source Document: WebMind AI - Neural Web Scraping & RAG Intelligence Engine > Section: Hybrid Vector Retrieval and Grounded RAG",
+    "chunk_index": 2,
+    "token_count": 77,
+    "text": "Source Document: WebMind AI - Neural Web Scraping & RAG Intelligence Engine > Section: Hybrid Vector Retrieval and Grounded RAG\n\nRetrieved documents are divided into hierarchical semantic chunks with breadcrumb headers. Queries execute across both dense vector cosine similarity and sparse BM25 lexical keyword rankings. The resulting context is injected into a strictly grounded system prompt that prevents hallucinations and generates verified citations.",
+    "raw_text": "Retrieved documents are divided into hierarchical semantic chunks with breadcrumb headers. Queries execute across both dense vector cosine similarity and sparse BM25 lexical keyword rankings. The resulting context is injected into a strictly grounded system prompt that prevents hallucinations and generates verified citations."
+  },
+  {
+    "chunk_id": "chk_33594441cdb3",
+    "url": "https://webmind.ai",
+    "title": "WebMind AI - Neural Web Scraping & RAG Intelligence Engine",
+    "section_heading": "Supported AI Models",
+    "context_header": "Source Document: WebMind AI - Neural Web Scraping & RAG Intelligence Engine > Section: Supported AI Models",
+    "chunk_index": 3,
+    "token_count": 75,
+    "text": "Source Document: WebMind AI - Neural Web Scraping & RAG Intelligence Engine > Section: Supported AI Models\n\nWebMind natively integrates Google Gemini (Gemini 2.5 Flash, Gemini 1.5 Pro, and text-embedding-004) alongside OpenAI GPT-4o, with a built-in offline local semantic synthesis engine for zero-setup exploration.",
+    "raw_text": "WebMind natively integrates Google Gemini (Gemini 2.5 Flash, Gemini 1.5 Pro, and text-embedding-004) alongside OpenAI GPT-4o, with a built-in offline local semantic synthesis engine for zero-setup exploration."
+  },
+  {
+    "chunk_id": "chk_a09efd6ec3e6",
+    "url": "https://webmind.ai",
+    "title": "WebMind AI - Neural Web Scraping & RAG Intelligence Engine",
+    "section_heading": "Enterprise Security and Citations",
+    "context_header": "Source Document: WebMind AI - Neural Web Scraping & RAG Intelligence Engine > Section: Enterprise Security and Citations",
+    "chunk_index": 4,
+    "token_count": 61,
+    "text": "Source Document: WebMind AI - Neural Web Scraping & RAG Intelligence Engine > Section: Enterprise Security and Citations\n\nEvery response generated by WebMind features interactive source attribution cards. Users can click any citation [1], [2] to inspect the exact scraped paragraph, confidence score, and original URL.",
+    "raw_text": "Every response generated by WebMind features interactive source attribution cards. Users can click any citation [1], [2] to inspect the exact scraped paragraph, confidence score, and original URL."
+  }
+]
