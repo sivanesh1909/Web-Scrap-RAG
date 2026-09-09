@@ -74,7 +74,7 @@ export const ChatInterface: React.FC<ChatInterfaceProps> = ({
   const [geminiKeyModalOpen, setGeminiKeyModalOpen] = useState(false);
   const [apiKeyInput, setApiKeyInput] = useState("");
   const [savedApiKey, setSavedApiKey] = useState<string>("");
-  const [activeModel, setActiveModel] = useState<"gemini-3.7-flash" | "grounded-local">("gemini-3.7-flash");
+  const [activeModel, setActiveModel] = useState<"gemini-2.0-flash" | "gemini-3.7-flash" | "grounded-local">("gemini-2.0-flash");
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLTextAreaElement>(null);
